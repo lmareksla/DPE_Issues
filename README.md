@@ -5,6 +5,6 @@
 
 This project serves as issue forum for the DPE project. To submit as issue, please, fill the issue template.
 
-## Tagging
+## Lables
 
-Individual issues can be tagged to more specify the issue topic, importance and others.
+Individual issues can be labelled to more specify the issue topic, importance and others.
