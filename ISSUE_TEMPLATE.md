@@ -5,6 +5,7 @@ describe the problem
 **DPE version:**    
 **data type:**    
 **used settings of DPE:**    
+**pc configuration:**  
 
 ### issue originator
 put the originator of the issue
