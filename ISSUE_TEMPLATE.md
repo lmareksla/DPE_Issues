@@ -8,10 +8,11 @@ describe the problem
 **pc configuration:**  
 
 ### issue originator
-put the originator of the issue
+put the originator of the issue (your name)
 
 ### how to reproduce
 list the steps to reproduce the problem
+if any files for reproducing are somewhere accaseible, add here its path 
 
 ### solution description
 describe the solution fixing the issue, put the link to the commit
